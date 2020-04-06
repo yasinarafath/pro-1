@@ -1,0 +1,146 @@
+body {
+    overflow-x:
+        hidden
+}
+
+
+.imh-rt {
+    color: #eee;
+    padding: 0px;
+}
+
+.yu {
+    padding: 43px 8px 0px 8px;
+}
+
+.ht {
+    font-family: montserrat;
+    padding: 0px;
+    color: #333333;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 0px;
+}
+
+.ui {
+    display: inline-block;
+    background: #80ddff;
+    width: 40px;
+    height: 1px;
+}
+
+.pd {
+	font-family: unset;
+	padding: 5px 0 0 0;
+	color: #333333;
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 24px;
+}
+
+.vc_custom_1502812623509 {
+    margin-top: -116px !important;
+    padding-top: 50px !important;
+    padding-bottom: 100px !important;
+    background-image: url(../img/testimonail_bg.jpg) !important;
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+}
+
+
+div.custom-contact-form div.large-6::after, div.custom-contact-form .large-12::after, div.custom-contact-form .large-9::after {
+	color: #00BAFF;
+
+}
+div.custom-contact-form .large-12 input {
+	
+	cursor: pointer;
+}
+
+.wd-footer, .wd-footer-1, .wd-footer-2 {
+	background: url(../img/testimonail_bg.jpg);
+	background-size: cover;
+position: relative;}
+
+/*
+.wd-footer::before{
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: red;
+}
+*/
+.wd-footer p {
+	color: rgb(255, 255, 255);
+
+}
+.wd-footer .block ul li a {
+	color: #f7efef;
+	
+}
+.wd-sly-carousel-container .scrollbar .handle {
+	background: #ff0c0c;
+	
+}
+
+.brnd {
+	display: flex;
+	padding: 50px 0px;
+}
+.wd-brnd {
+	padding: 58px;
+	opacity: 0.5;
+    cursor: pointer;
+}
+.wd-brnd:hover{
+	opacity: 1;
+}
+.brnd img {
+	width: 80px;
+}
+.vc_custom_1502812530107 {
+	margin-right: 0px !important;
+	margin-left: 0px !important;
+	background-image: url(../img/homefff.jpg) !important;
+	background-position: 0 0 !important;
+	background-repeat: no-repeat !important;
+}
+
+.hb{
+    position: absolute; top: 0px; left: 0px; z-index: 0; width: 100%; height: 100%; visibility: inherit; opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+
+
+{
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
